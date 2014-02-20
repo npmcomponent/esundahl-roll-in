@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-roll-in",
+  "description": "roll-in animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "roll-in"
+  ],
+  "styles": [
+    "roll-in.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
